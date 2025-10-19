@@ -1,4 +1,4 @@
-https://github.com/PavelPechenkin/ono-tebe-nado-ad
+https://github.com/PavelPechenkin/ono-tebe-nado
 
 ## Благодарность
 
